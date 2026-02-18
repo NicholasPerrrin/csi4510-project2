@@ -142,6 +142,15 @@ section {
     justify-content: center;
     align-items: center;
 }
+#results-list {
+    background: #fff;
+    margin: 5% auto;
+    padding: 2rem;
+    border-radius: 8px;
+    width: 95%;
+    max-width: 500px;
+    position: relative;
+}
 .modal-content {
     background: #fff;
     margin: 5% auto;
